@@ -1,3 +1,4 @@
+
 This Python project provides a simple yet powerful tool to encrypt and decrypt PDF files. It utilizes the PyPDF2 and PyMuPDF libraries to perform encryption and decryption operations, making it easy to secure sensitive PDF documents or access password-protected files.
 
 Features
